@@ -1,0 +1,14 @@
+C:\Users\Tony\Documents\Visual Studio 2015\Projects\GestionSach\Data\bin\Debug\Data.dll.config
+C:\Users\Tony\Documents\Visual Studio 2015\Projects\GestionSach\Data\bin\Debug\Data.dll
+C:\Users\Tony\Documents\Visual Studio 2015\Projects\GestionSach\Data\bin\Debug\Data.pdb
+C:\Users\Tony\Documents\Visual Studio 2015\Projects\GestionSach\Data\bin\Debug\EntityFramework.dll
+C:\Users\Tony\Documents\Visual Studio 2015\Projects\GestionSach\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tony\Documents\Visual Studio 2015\Projects\GestionSach\Data\bin\Debug\EntityFramework.xml
+C:\Users\Tony\Documents\Visual Studio 2015\Projects\GestionSach\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tony\Documents\Visual Studio 2015\Projects\GestionSach\Data\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\Tony\Documents\Visual Studio 2015\Projects\GestionSach\Data\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\Tony\Documents\Visual Studio 2015\Projects\GestionSach\Data\obj\Debug\Data.dll
+C:\Users\Tony\Documents\Visual Studio 2015\Projects\GestionSach\Data\obj\Debug\Data.pdb
+C:\Users\Tony\Documents\Visual Studio 2015\Projects\GestionSach\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Visual Studio 2015\Projects\GestionSach\Data\bin\Debug\Models.dll
+C:\Users\Tony\Documents\Visual Studio 2015\Projects\GestionSach\Data\bin\Debug\Models.pdb

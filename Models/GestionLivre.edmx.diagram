@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="fac00c0ca5754774a89a1d865eed6b86" Name="Diagram1">
+        <EntityTypeShape EntityType="Gestion_LivreModel.Auteur" Width="1.5" PointX="3" PointY="8.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Gestion_LivreModel.Clients" Width="1.5" PointX="0.75" PointY="12.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Gestion_LivreModel.Commande" Width="1.5" PointX="3" PointY="12.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Gestion_LivreModel.DetailCommande" Width="1.5" PointX="5.25" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Gestion_LivreModel.Edition" Width="1.5" PointX="0.75" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Gestion_LivreModel.Livre" Width="1.5" PointX="3" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Gestion_LivreModel.Participer" Width="1.5" PointX="5.25" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Gestion_LivreModel.Sujet" Width="1.5" PointX="0.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="Gestion_LivreModel.sysdiagrams" Width="1.5" PointX="5.75" PointY="6.875" IsExpanded="true" />
+        <AssociationConnector Association="Gestion_LivreModel.FK_Auteur_Auteur1" ManuallyRouted="false" />
+        <AssociationConnector Association="Gestion_LivreModel.FK_Participer_Auteur" ManuallyRouted="false" />
+        <AssociationConnector Association="Gestion_LivreModel.FK_Commande_Clients" ManuallyRouted="false" />
+        <AssociationConnector Association="Gestion_LivreModel.FK_DetailCommande_Commade" ManuallyRouted="false" />
+        <AssociationConnector Association="Gestion_LivreModel.FK_DetailCommande_Commande" ManuallyRouted="false" />
+        <AssociationConnector Association="Gestion_LivreModel.FK_DetailCommande_Livre" ManuallyRouted="false" />
+        <AssociationConnector Association="Gestion_LivreModel.FK_Livre_Edition" ManuallyRouted="false" />
+        <AssociationConnector Association="Gestion_LivreModel.FK_Livre_Sujet" ManuallyRouted="false" />
+        <AssociationConnector Association="Gestion_LivreModel.FK_Participer_Livre" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
