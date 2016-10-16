@@ -19,6 +19,8 @@ namespace GestionSach
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
+            TracerManager.Instance.LoadConfiguration();
+            TracerManager.LogDebug("Lancement application Gestion Livre");
         }
     }
 }
